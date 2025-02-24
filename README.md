@@ -1,5 +1,5 @@
 # dmenu
-My personal build of  dwm
+My personal build of  dmenu
 
 ## Installation Guide
 ```bash
